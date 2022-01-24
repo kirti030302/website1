@@ -1,0 +1,31 @@
+body{
+    font-size: 16px;
+    color:#fff;
+    background-color: #61122f;
+    font-family: 'Oxygen',sans-serif;
+}
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+
+}
+#logo-img{
+    background:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fkorean-food-logo-round-linear-dishes-vector-30595368&psig=AOvVaw3SGby4nd8v20PUc1YJzPI2&ust=1643119635680000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjZgOTHyvUCFQAAAAAdAAAAABAD")no-repeat;
+    height: 150px;
+    width: 150px;
+    margin:10px 15px 10px 0 ;
+}
+#container{
+    float:right;
+
+}
+#navbar-header{
+    float:right;
+}
+#navbar-brand{
+    padding-top: 25px;
+}
+.navbar-brand h1{
+    font-family: 'Lora',serif;
+}
